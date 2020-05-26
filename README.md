@@ -1,5 +1,5 @@
 # Encrypter
-This is a basic encrypter that encrypts a word.
+Encrypter is a basic program that encrypts a word or a sentence.
 
 ![encrypter](https://i.ibb.co/1JYHKGb/encrypter.png)
 
